@@ -2,9 +2,9 @@
 
 Trading Bot est une application Python qui génère un graphique interactif des données historiques de l'ETH et permet de placer des signaux de trading d'achat ou de vente basés sur l'indicateur RSI.
 
-![alt text](Trading-Bot/ReadMe/Graph.PNG)
 
-![alt text](Trading-Bot/ReadMe/portfolio.PNG)
+![Graph](https://github.com/TheotimeC/Trading-Bot/assets/90263747/e6362584-f270-4e17-b2a7-938b2bdd01cb)
+![portfolio](https://github.com/TheotimeC/Trading-Bot/assets/90263747/a7900829-0d9f-46b2-a3f7-4eda7a690ae1)
 
 ## Fonctionnalités
 
